@@ -77,7 +77,17 @@ function loadDashboard() {
                         </div>
                     </div>
                     
-                    <div class="card shadow-sm mb-4 animate__animated animate__fadeInUp" style="animation-delay: 0.4s;">
+                    <div class="card text-white bg-info shadow mb-4 animate__animated animate__fadeInRight" style="animation-delay: 0.4s;">
+                        <div class="card-body d-flex justify-content-between align-items-center">
+                            <div>
+                                <div class="fs-4 fw-bold">${commentsCount}</div>
+                                <div>Total Comments</div>
+                            </div>
+                            <i class="fas fa-comments fa-3x text-white-50"></i>
+                        </div>
+                    </div>
+                    
+                    <div class="card shadow-sm mb-4 animate__animated animate__fadeInUp" style="animation-delay: 0.6s;">
                          <div class="card-header d-flex justify-content-between align-items-center">
                             <h5 class="card-title mb-0"><i class="fas fa-user-plus me-2"></i>Newest Users</h5>
                             <a href="#users" class="btn btn-sm btn-outline-primary">View All Users</a>
