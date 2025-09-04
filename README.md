@@ -48,4 +48,5 @@ A dynamic and responsive admin dashboard built to display and manage data from t
 
 1. Clone this repository to your local machine:
    ```sh
-   git clone [https://github.com/0Hassan-Mohammed0/DEPI-Front-End-Task.git](https://github.com/0Hassan-Mohammed0/DEPI-Front-End-Task.git)
+   git clone https://github.com/0Hassan-Mohammed0/DEPI-Front-End-Task.git
+
