@@ -2,7 +2,7 @@
 
 A dynamic and responsive admin dashboard built to display and manage data from the JSONPlaceholder API.
 
-![Project Screenshot](https://i.ibb.co/cKknrQJ6/Screenshot-2025-09-05-004307.png) 
+![Project Screenshot](https://i.ibb.co/1JhTT1Mk/Screenshot-2025-09-05-010511.png) 
 
 ---
 
@@ -49,4 +49,5 @@ A dynamic and responsive admin dashboard built to display and manage data from t
 1. Clone this repository to your local machine:
    ```sh
    git clone https://github.com/0Hassan-Mohammed0/DEPI-Front-End-Task.git
+
 
